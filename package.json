@@ -1,0 +1,16 @@
+{
+  "name": "mysql-stream-write-json",
+  "version": "1.0.0",
+  "description": "Write chunks to mysql via streams",
+  "main": "write-stream.js",
+  "license": "MIT",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "aam-cdf-parser": "^1.2.0",
+    "byline": "^5.0.0",
+    "mysql": "^2.17.1",
+    "numeral": "^2.0.6",
+    "split": "^1.0.1",
+    "streamspeed": "^1.1.1"
+  }
+}
